@@ -1,6 +1,6 @@
 import play.Project._
 
-name := "computer-database"
+name := "computer-db-eval"
 
 version := "1.0"
 
